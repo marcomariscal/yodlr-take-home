@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiPaper-root makeStyles-root-6 MuiPaper-elevation1 MuiPaper-rounded"
+  >
+    <div
+      class="MuiTabs-root"
+    >
+      <div
+        class="MuiTabs-scroller MuiTabs-fixed"
+        style="overflow: hidden;"
+      >
+        <div
+          class="MuiTabs-flexContainer MuiTabs-centered"
+          role="tablist"
+        >
+          <a
+            aria-disabled="false"
+            aria-selected="true"
+            class="MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary Mui-selected"
+            href="/"
+            role="tab"
+            tabindex="0"
+          >
+            <span
+              class="MuiTab-wrapper"
+            >
+              Home
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </a>
+          <a
+            aria-disabled="false"
+            aria-selected="false"
+            class="MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary"
+            href="/signup"
+            role="tab"
+            tabindex="-1"
+          >
+            <span
+              class="MuiTab-wrapper"
+            >
+              Signup
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </a>
+          <a
+            aria-disabled="false"
+            aria-selected="false"
+            class="MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary"
+            href="/admin"
+            role="tab"
+            tabindex="-1"
+          >
+            <span
+              class="MuiTab-wrapper"
+            >
+              Admin
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </a>
+        </div>
+        <span
+          class="PrivateTabIndicator-root-7 PrivateTabIndicator-colorPrimary-8 MuiTabs-indicator"
+          style="left: 0px; width: 0px;"
+        />
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
