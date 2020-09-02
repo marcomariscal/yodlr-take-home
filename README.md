@@ -4,7 +4,7 @@
 
 The purpose of this app is to demonstrate design and frontend integration capability.
 
-The app uses a static backend via a json file and allows the user to signup, view all users, and activate admin functionality for any user.
+The app uses a static backend via a json file and allows the user to signup, view all users, and activate admin functionality for any user. I decided to use React for the frontend becuase of familiarity and ease of componentizing.
 
 At a minimum, there were three things required for the app/submission:
 
